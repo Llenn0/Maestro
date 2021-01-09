@@ -1,0 +1,17 @@
+{
+  "name": "maestro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "author": "",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "get-youtube-id": "^1.0.1",
+    "node-fetch": "^2.6.1",
+    "npm": "^6.14.10",
+    "request": "^2.88.2",
+    "ytdl-core": "^4.4.1"
+  }
+}
